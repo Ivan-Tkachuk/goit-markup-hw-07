@@ -1,0 +1,8 @@
+.container__title {
+    margin-bottom: 50px;
+
+    @include font(36px, 700, 42px);
+    text-align: center;
+
+    color: var(--secondary-text-color--);
+}
